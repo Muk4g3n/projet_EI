@@ -1,6 +1,0 @@
-le nombre de med commencant par la lettre A est : 198
-le nombre de med commencant par la lettre B est : 81
-le nombre de med commencant par la lettre C est : 175
-le nombre de med commencant par la lettre D est : 112
-le nombre de med commencant par la lettre E est : 87
-le nombre totale est 653

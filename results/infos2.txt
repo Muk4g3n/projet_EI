@@ -1,0 +1,21 @@
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre a sont: 16
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre b sont: 4
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre c sont: 15
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre d sont: 9
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre e sont: 7
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre f sont: 6
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre g sont: 6
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre h sont: 3
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre i sont: 8
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre k sont: 3
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre l sont: 7
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre m sont: 8
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre n sont: 1
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre o sont: 3
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre p sont: 8
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre r sont: 4
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre s sont: 10
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre t sont: 12
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre v sont: 2
+Le nombre de médicaments provenant de l'enrichissement qui commencent par la lettre z sont: 6
+Le nombre total de médicament provenant de l'enrichissement est: 139 

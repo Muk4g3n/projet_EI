@@ -38,6 +38,7 @@ else:
 info = open("info.txt", 'w')
 sum = 0
 dic = open("subst.dic", 'w', encoding="utf-16-le")
+dic.write('\ufeff')
 for i in range(Min, Max + 1):
     #la fonction chr donne le caractere a partir d'un code ascii
     current_char = chr(i)
@@ -47,7 +48,6 @@ for i in range(Min, Max + 1):
 
     content = link.read().decode("utf-8")
 
-    ##
     match = re.findall(r"(?<=[0-9]\.htm\">).+(?=</a>)", content)
 
     for j in match:

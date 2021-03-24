@@ -1,0 +1,27 @@
+le nombre de med commencant par la lettre A est : 198
+le nombre de med commencant par la lettre B est : 81
+le nombre de med commencant par la lettre C est : 175
+le nombre de med commencant par la lettre D est : 112
+le nombre de med commencant par la lettre E est : 87
+le nombre de med commencant par la lettre F est : 80
+le nombre de med commencant par la lettre G est : 50
+le nombre de med commencant par la lettre H est : 31
+le nombre de med commencant par la lettre I est : 77
+le nombre de med commencant par la lettre J est : 1
+le nombre de med commencant par la lettre K est : 6
+le nombre de med commencant par la lettre L est : 71
+le nombre de med commencant par la lettre M est : 120
+le nombre de med commencant par la lettre N est : 65
+le nombre de med commencant par la lettre O est : 46
+le nombre de med commencant par la lettre P est : 151
+le nombre de med commencant par la lettre Q est : 8
+le nombre de med commencant par la lettre R est : 57
+le nombre de med commencant par la lettre S est : 97
+le nombre de med commencant par la lettre T est : 132
+le nombre de med commencant par la lettre U est : 11
+le nombre de med commencant par la lettre V est : 43
+le nombre de med commencant par la lettre W est : 1
+le nombre de med commencant par la lettre X est : 4
+le nombre de med commencant par la lettre Y est : 1
+le nombre de med commencant par la lettre Z est : 17
+le nombre totale est 1722
