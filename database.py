@@ -5,7 +5,7 @@ concord = open('concord.html', 'r', encoding='utf-8').readlines()
 conn = sqlite3.connect('extraction.db')
 c = conn.cursor()
 
-c.execute('CREATE TABLE EXTRACTION (ID INTEGER, POSOLOGIE TEXT)')
+c.execute('CREATE TABLE EXTRACTION (ID INTEGER PRIMARY KEY, POSOLOGIE TEXT)')
 
 content = re.findall(r"<\s*a[^>]*>(.*?)<\s*/\s*a>", str(concord))
 counter = 1
