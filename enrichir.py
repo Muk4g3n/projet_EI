@@ -4,7 +4,7 @@ corpus_content = open(sys.argv[1], 'r', encoding='utf-8').readlines()
 dic = open('subst.dic', 'r', encoding='utf-16-le').readlines()
 dic_enrichi = open("subst_enri.dic", 'w', encoding='utf-16-le')
 dic_enrichi.write('\ufeff \n')
-temp = []
+temp = [] ##cette liste vas contenir les elements sur le corpus et non pas sur vidal
 print("Meds apres enrichissement sont : \n")
 for i in corpus_content:
     x = re.search(r"^-? ?(\w+) :? ?(\d+|,)+ (mg|ml).+", i, re.I)
